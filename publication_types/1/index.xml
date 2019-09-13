@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Ben Bogin</title>
+    <link>https://benbogin.github.io/publication_types/1/</link>
+      <atom:link href="https://benbogin.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 11:37:54 +0300</lastBuildDate>
+    <image>
+      <url>https://benbogin.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://benbogin.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Global Reasoning over Database Structures for Text-to-SQL Parsing</title>
+      <link>https://benbogin.github.io/publication/global/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Schema Structure with Graph Neural Networks for Text-to-SQL Parsing</title>
+      <link>https://benbogin.github.io/publication/gnn-schema/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/gnn-schema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grammar-based Neural Text-to-SQL Generation</title>
+      <link>https://benbogin.github.io/publication/grammar/</link>
+      <pubDate>Thu, 13 Jun 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence of Communication in an Interactive World with Consistent Speakers</title>
+      <link>https://benbogin.github.io/publication/emergence/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/emergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an argumentative content search engine using weak supervision</title>
+      <link>https://benbogin.github.io/publication/argumentative/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/argumentative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Generation with Recurrent Generative Adversarial Networks without Pre-training</title>
+      <link>https://benbogin.github.io/publication/gans/</link>
+      <pubDate>Wed, 13 Sep 2017 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/gans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

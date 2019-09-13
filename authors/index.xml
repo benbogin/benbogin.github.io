@@ -2,24 +2,137 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ben Bogin</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://benbogin.github.io/authors/</link>
+      <atom:link href="https://benbogin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 11:37:54 +0300</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://benbogin.github.io/authors/</link>
     </image>
     
     <item>
+      <title>**Ben Bogin**</title>
+      <link>https://benbogin.github.io/authors/ben-bogin/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ben-bogin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Berant</title>
+      <link>https://benbogin.github.io/authors/jonathan-berant/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/jonathan-berant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Gardner</title>
+      <link>https://benbogin.github.io/authors/matt-gardner/</link>
+      <pubDate>Fri, 13 Sep 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/matt-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Lin</title>
+      <link>https://benbogin.github.io/authors/kevin-lin/</link>
+      <pubDate>Thu, 13 Jun 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/kevin-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Neumann</title>
+      <link>https://benbogin.github.io/authors/mark-neumann/</link>
+      <pubDate>Thu, 13 Jun 2019 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/mark-neumann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ben-boginsup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mor Geva</title>
+      <link>https://benbogin.github.io/authors/mor-geva/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/mor-geva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noam Slonim</title>
+      <link>https://benbogin.github.io/authors/noam-slonim/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/noam-slonim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ran Levy&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ran-levysup/sup/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ran-levysup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranit Aharonov</title>
+      <link>https://benbogin.github.io/authors/ranit-aharonov/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ranit-aharonov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shai Gretz&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/shai-gretzsup/sup/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/shai-gretzsup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amir Bar&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/amir-barsup/sup/</link>
+      <pubDate>Wed, 13 Sep 2017 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/amir-barsup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lior Wolf</title>
+      <link>https://benbogin.github.io/authors/lior-wolf/</link>
+      <pubDate>Wed, 13 Sep 2017 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/lior-wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ofir Press&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ofir-presssup/sup/</link>
+      <pubDate>Wed, 13 Sep 2017 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ofir-presssup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://benbogin.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>https://benbogin.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m a PhD student in Tel Aviv University, advised by
+&lt;a href=&#34;https://www.cs.tau.ac.il/~joberant/&#34; target=&#34;_blank&#34;&gt;Jonathan Berant&lt;/a&gt;.
+I research Natural Language Processing, and mostly interested in semantic parsing and
+learning to understand grounded, compositional communication.&lt;/p&gt;
 </description>
     </item>
     

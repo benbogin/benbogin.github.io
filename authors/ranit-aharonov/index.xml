@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ranit Aharonov | Ben Bogin</title>
+    <link>https://benbogin.github.io/authors/ranit-aharonov/</link>
+      <atom:link href="https://benbogin.github.io/authors/ranit-aharonov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ranit Aharonov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Sep 2018 11:37:54 +0300</lastBuildDate>
+    <image>
+      <url>https://benbogin.github.io/img/icon-192.png</url>
+      <title>Ranit Aharonov</title>
+      <link>https://benbogin.github.io/authors/ranit-aharonov/</link>
+    </image>
+    
+    <item>
+      <title>Towards an argumentative content search engine using weak supervision</title>
+      <link>https://benbogin.github.io/publication/argumentative/</link>
+      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/argumentative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,39 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://benbogin.github.io/authors/ben-bogin/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://benbogin.github.io/publication_types/1/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://benbogin.github.io/authors/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://benbogin.github.io/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://benbogin.github.io/publication/global/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://benbogin.github.io/authors/jonathan-berant/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://benbogin.github.io/authors/matt-gardner/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://benbogin.github.io/publication_types/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://benbogin.github.io/publication/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/publication/gnn-schema/</loc>
+    <lastmod>2019-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/publication/grammar/</loc>
+    <lastmod>2019-06-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/kevin-lin/</loc>
+    <lastmod>2019-06-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/mark-neumann/</loc>
+    <lastmod>2019-06-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/ben-boginsup/sup/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/publication/emergence/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/mor-geva/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/noam-slonim/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/ran-levysup/sup/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/ranit-aharonov/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/shai-gretzsup/sup/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/publication/argumentative/</loc>
+    <lastmod>2018-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/amir-barsup/sup/</loc>
+    <lastmod>2017-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/publication/gans/</loc>
+    <lastmod>2017-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/lior-wolf/</loc>
+    <lastmod>2017-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/ofir-presssup/sup/</loc>
+    <lastmod>2017-09-13T11:37:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://benbogin.github.io/tags/</loc>
   </url>
   
 </urlset>
