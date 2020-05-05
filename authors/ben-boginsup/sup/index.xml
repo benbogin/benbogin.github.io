@@ -5,12 +5,20 @@
     <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
       <atom:link href="https://benbogin.github.io/authors/ben-boginsup/sup/index.xml" rel="self" type="application/rss+xml" />
     <description>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Sep 2018 11:37:54 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 11:37:54 +0300</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</title>
       <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
     </image>
+    
+    <item>
+      <title>Obtaining Faithful Interpretations from Compositional Neural Networks</title>
+      <link>https://benbogin.github.io/publication/faithful/</link>
+      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/faithful/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards an argumentative content search engine using weak supervision</title>
