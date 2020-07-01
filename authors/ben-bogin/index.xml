@@ -5,12 +5,20 @@
     <link>https://benbogin.github.io/authors/ben-bogin/</link>
       <atom:link href="https://benbogin.github.io/authors/ben-bogin/index.xml" rel="self" type="application/rss+xml" />
     <description>**Ben Bogin**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Sep 2019 11:37:54 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 11:37:54 +0300</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>**Ben Bogin**</title>
       <link>https://benbogin.github.io/authors/ben-bogin/</link>
     </image>
+    
+    <item>
+      <title>Latent Compositional Representations Improve Systematic Generalization in Grounded Question Answering</title>
+      <link>https://benbogin.github.io/publication/glt/</link>
+      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/glt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Global Reasoning over Database Structures for Text-to-SQL Parsing</title>

@@ -5,7 +5,7 @@
     <link>https://benbogin.github.io/authors/</link>
       <atom:link href="https://benbogin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 11:37:54 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 11:37:54 +0300</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,17 +13,17 @@
     </image>
     
     <item>
-      <title>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
-      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/ben-boginsup/sup/</guid>
+      <title>**Ben Bogin**</title>
+      <link>https://benbogin.github.io/authors/ben-bogin/</link>
+      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ben-bogin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jonathan Berant</title>
       <link>https://benbogin.github.io/authors/jonathan-berant/</link>
-      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
+      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/jonathan-berant/</guid>
       <description></description>
     </item>
@@ -31,8 +31,24 @@
     <item>
       <title>Matt Gardner</title>
       <link>https://benbogin.github.io/authors/matt-gardner/</link>
-      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
+      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/matt-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanjay Subramanian</title>
+      <link>https://benbogin.github.io/authors/sanjay-subramanian/</link>
+      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/sanjay-subramanian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
+      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ben-boginsup/sup/</guid>
       <description></description>
     </item>
     
@@ -65,14 +81,6 @@
       <link>https://benbogin.github.io/authors/tomer-wolfson/</link>
       <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/tomer-wolfson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Ben Bogin**</title>
-      <link>https://benbogin.github.io/authors/ben-bogin/</link>
-      <pubDate>Fri, 13 Sep 2019 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/ben-bogin/</guid>
       <description></description>
     </item>
     
