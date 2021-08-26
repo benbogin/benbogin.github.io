@@ -5,7 +5,7 @@
     <link>https://benbogin.github.io/authors/</link>
       <atom:link href="https://benbogin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 11:37:54 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 01:01:01 +0100</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>**Ben Bogin**</title>
       <link>https://benbogin.github.io/authors/ben-bogin/</link>
-      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
+      <pubDate>Fri, 06 Aug 2021 01:01:01 +0100</pubDate>
       <guid>https://benbogin.github.io/authors/ben-bogin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moshe Hazoom</title>
+      <link>https://benbogin.github.io/authors/moshe-hazoom/</link>
+      <pubDate>Fri, 06 Aug 2021 01:01:01 +0100</pubDate>
+      <guid>https://benbogin.github.io/authors/moshe-hazoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vibhor Malik</title>
+      <link>https://benbogin.github.io/authors/vibhor-malik/</link>
+      <pubDate>Fri, 06 Aug 2021 01:01:01 +0100</pubDate>
+      <guid>https://benbogin.github.io/authors/vibhor-malik/</guid>
       <description></description>
     </item>
     
@@ -45,34 +61,10 @@
     </item>
     
     <item>
-      <title>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
-      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/ben-boginsup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nitish Gupta&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/nitish-guptasup/sup/</link>
-      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/nitish-guptasup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sameer Singh</title>
       <link>https://benbogin.github.io/authors/sameer-singh/</link>
       <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/sameer-singh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sanjay Subramanian&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/sanjay-subramaniansup/sup/</link>
-      <pubDate>Sat, 02 May 2020 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/sanjay-subramaniansup/sup/</guid>
       <description></description>
     </item>
     
@@ -277,34 +269,10 @@
     </item>
     
     <item>
-      <title>Ran Levy&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/ran-levysup/sup/</link>
-      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/ran-levysup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ranit Aharonov</title>
       <link>https://benbogin.github.io/authors/ranit-aharonov/</link>
       <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/ranit-aharonov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shai Gretz&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/shai-gretzsup/sup/</link>
-      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/shai-gretzsup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amir Bar&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/amir-barsup/sup/</link>
-      <pubDate>Wed, 13 Sep 2017 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/amir-barsup/sup/</guid>
       <description></description>
     </item>
     
@@ -317,23 +285,71 @@
     </item>
     
     <item>
-      <title>Ofir Press&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://benbogin.github.io/authors/ofir-presssup/sup/</link>
-      <pubDate>Wed, 13 Sep 2017 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/ofir-presssup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://benbogin.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://benbogin.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Hi! I&amp;rsquo;m a PhD student in Tel Aviv University, advised by
-&lt;a href=&#34;https://www.cs.tau.ac.il/~joberant/&#34; target=&#34;_blank&#34;&gt;Jonathan Berant&lt;/a&gt;.
+&lt;a href=&#34;https://www.cs.tau.ac.il/~joberant/&#34;&gt;Jonathan Berant&lt;/a&gt;.
 My main research interest is Natural Language Processing. I am mostly interested in semantic parsing and models that
 try to understand grounded, compositional communication.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>**Ben Bogin**&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ben-boginsup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/ben-boginsup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amir Bar&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/amir-barsup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/amir-barsup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitish Gupta&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/nitish-guptasup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/nitish-guptasup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ofir Press&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ofir-presssup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/ofir-presssup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ran Levy&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/ran-levysup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/ran-levysup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanjay Subramanian&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/sanjay-subramaniansup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/sanjay-subramaniansup/sup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shai Gretz&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>https://benbogin.github.io/authors/shai-gretzsup/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbogin.github.io/authors/shai-gretzsup/sup/</guid>
+      <description></description>
     </item>
     
   </channel>

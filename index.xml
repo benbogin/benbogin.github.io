@@ -5,7 +5,7 @@
     <link>https://benbogin.github.io/</link>
       <atom:link href="https://benbogin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben Bogin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 11:37:54 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 01:01:01 +0100</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>Ben Bogin</title>
@@ -15,16 +15,8 @@
     <item>
       <title>Publications</title>
       <link>https://benbogin.github.io/publication/</link>
-      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
+      <pubDate>Fri, 06 Aug 2021 01:01:01 +0100</pubDate>
       <guid>https://benbogin.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
       <description></description>
     </item>
     
