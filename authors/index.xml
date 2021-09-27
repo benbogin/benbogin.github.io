@@ -5,7 +5,7 @@
     <link>https://benbogin.github.io/authors/</link>
       <atom:link href="https://benbogin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 01:01:01 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Sep 2021 11:37:54 +0300</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,32 @@
     <item>
       <title>**Ben Bogin**</title>
       <link>https://benbogin.github.io/authors/ben-bogin/</link>
-      <pubDate>Fri, 06 Aug 2021 01:01:01 +0100</pubDate>
+      <pubDate>Mon, 20 Sep 2021 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/ben-bogin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Berant</title>
+      <link>https://benbogin.github.io/authors/jonathan-berant/</link>
+      <pubDate>Mon, 20 Sep 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/jonathan-berant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Gardner</title>
+      <link>https://benbogin.github.io/authors/matt-gardner/</link>
+      <pubDate>Mon, 20 Sep 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/matt-gardner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shivanshu Gupta</title>
+      <link>https://benbogin.github.io/authors/shivanshu-gupta/</link>
+      <pubDate>Mon, 20 Sep 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/shivanshu-gupta/</guid>
       <description></description>
     </item>
     
@@ -37,18 +61,418 @@
     </item>
     
     <item>
-      <title>Jonathan Berant</title>
-      <link>https://benbogin.github.io/authors/jonathan-berant/</link>
-      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/jonathan-berant/</guid>
+      <title>Alon Halfon</title>
+      <link>https://benbogin.github.io/authors/alon-halfon/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/alon-halfon/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Matt Gardner</title>
-      <link>https://benbogin.github.io/authors/matt-gardner/</link>
-      <pubDate>Wed, 01 Jul 2020 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/matt-gardner/</guid>
+      <title>Amir Menczel</title>
+      <link>https://benbogin.github.io/authors/amir-menczel/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/amir-menczel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ariel Gera</title>
+      <link>https://benbogin.github.io/authors/ariel-gera/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ariel-gera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artem Spector</title>
+      <link>https://benbogin.github.io/authors/artem-spector/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/artem-spector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assaf Gavron</title>
+      <link>https://benbogin.github.io/authors/assaf-gavron/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/assaf-gavron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assaf Toledo</title>
+      <link>https://benbogin.github.io/authors/assaf-toledo/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/assaf-toledo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aya Soffer</title>
+      <link>https://benbogin.github.io/authors/aya-soffer/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/aya-soffer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Sznajder</title>
+      <link>https://benbogin.github.io/authors/benjamin-sznajder/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/benjamin-sznajder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Alzate</title>
+      <link>https://benbogin.github.io/authors/carlos-alzate/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/carlos-alzate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles Jochim</title>
+      <link>https://benbogin.github.io/authors/charles-jochim/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/charles-jochim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dafna Sheinwald</title>
+      <link>https://benbogin.github.io/authors/dafna-sheinwald/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/dafna-sheinwald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dalia Krieger</title>
+      <link>https://benbogin.github.io/authors/dalia-krieger/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/dalia-krieger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Gutfreund</title>
+      <link>https://benbogin.github.io/authors/dan-gutfreund/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/dan-gutfreund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Lahav</title>
+      <link>https://benbogin.github.io/authors/dan-lahav/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/dan-lahav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Hershcovich</title>
+      <link>https://benbogin.github.io/authors/daniel-hershcovich/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/daniel-hershcovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Konopnicki</title>
+      <link>https://benbogin.github.io/authors/david-konopnicki/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/david-konopnicki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edo Cohen-Karlik</title>
+      <link>https://benbogin.github.io/authors/edo-cohen-karlik/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/edo-cohen-karlik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elad Venezian</title>
+      <link>https://benbogin.github.io/authors/elad-venezian/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/elad-venezian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ella Rabinovich</title>
+      <link>https://benbogin.github.io/authors/ella-rabinovich/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ella-rabinovich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyal Shnarch</title>
+      <link>https://benbogin.github.io/authors/eyal-shnarch/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/eyal-shnarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francesca Bonin</title>
+      <link>https://benbogin.github.io/authors/francesca-bonin/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/francesca-bonin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guy Moshkowich</title>
+      <link>https://benbogin.github.io/authors/guy-moshkowich/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/guy-moshkowich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Shnayderman</title>
+      <link>https://benbogin.github.io/authors/ilya-shnayderman/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ilya-shnayderman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lena Dankin</title>
+      <link>https://benbogin.github.io/authors/lena-dankin/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/lena-dankin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leshem Choshen</title>
+      <link>https://benbogin.github.io/authors/leshem-choshen/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/leshem-choshen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liat Ein-Dor</title>
+      <link>https://benbogin.github.io/authors/liat-ein-dor/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/liat-ein-dor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lilach Edelstein</title>
+      <link>https://benbogin.github.io/authors/lilach-edelstein/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/lilach-edelstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lili Kotlerman</title>
+      <link>https://benbogin.github.io/authors/lili-kotlerman/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/lili-kotlerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Gleize</title>
+      <link>https://benbogin.github.io/authors/martin-gleize/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/martin-gleize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matan Orbach</title>
+      <link>https://benbogin.github.io/authors/matan-orbach/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/matan-orbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michal Jacovi</title>
+      <link>https://benbogin.github.io/authors/michal-jacovi/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/michal-jacovi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naftali Liberman</title>
+      <link>https://benbogin.github.io/authors/naftali-liberman/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/naftali-liberman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noam Slonim</title>
+      <link>https://benbogin.github.io/authors/noam-slonim/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/noam-slonim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orith Toledo-Ronen</title>
+      <link>https://benbogin.github.io/authors/orith-toledo-ronen/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/orith-toledo-ronen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ran Levy</title>
+      <link>https://benbogin.github.io/authors/ran-levy/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ran-levy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ranit Aharonov</title>
+      <link>https://benbogin.github.io/authors/ranit-aharonov/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ranit-aharonov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ron Hoory</title>
+      <link>https://benbogin.github.io/authors/ron-hoory/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ron-hoory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roni Friedman-Melamed</title>
+      <link>https://benbogin.github.io/authors/roni-friedman-melamed/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/roni-friedman-melamed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roy Bar-Haim</title>
+      <link>https://benbogin.github.io/authors/roy-bar-haim/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/roy-bar-haim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruty Rinott</title>
+      <link>https://benbogin.github.io/authors/ruty-rinott/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/ruty-rinott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shachar Mirkin</title>
+      <link>https://benbogin.github.io/authors/shachar-mirkin/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/shachar-mirkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shai Gretz</title>
+      <link>https://benbogin.github.io/authors/shai-gretz/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/shai-gretz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shay Hummel</title>
+      <link>https://benbogin.github.io/authors/shay-hummel/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/shay-hummel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shila Ofek-Koifman</title>
+      <link>https://benbogin.github.io/authors/shila-ofek-koifman/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/shila-ofek-koifman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slava Shechtman</title>
+      <link>https://benbogin.github.io/authors/slava-shechtman/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/slava-shechtman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamar Lavee</title>
+      <link>https://benbogin.github.io/authors/tamar-lavee/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/tamar-lavee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoav Kantor</title>
+      <link>https://benbogin.github.io/authors/yoav-kantor/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/yoav-kantor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoav Katz</title>
+      <link>https://benbogin.github.io/authors/yoav-katz/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/yoav-katz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yonatan Bilu</title>
+      <link>https://benbogin.github.io/authors/yonatan-bilu/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/yonatan-bilu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yosi Mass</title>
+      <link>https://benbogin.github.io/authors/yosi-mass/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/yosi-mass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yufang Hou</title>
+      <link>https://benbogin.github.io/authors/yufang-hou/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/yufang-hou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zvi Kons</title>
+      <link>https://benbogin.github.io/authors/zvi-kons/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/authors/zvi-kons/</guid>
       <description></description>
     </item>
     
@@ -257,22 +681,6 @@
       <link>https://benbogin.github.io/authors/mor-geva/</link>
       <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
       <guid>https://benbogin.github.io/authors/mor-geva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noam Slonim</title>
-      <link>https://benbogin.github.io/authors/noam-slonim/</link>
-      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/noam-slonim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ranit Aharonov</title>
-      <link>https://benbogin.github.io/authors/ranit-aharonov/</link>
-      <pubDate>Thu, 13 Sep 2018 11:37:54 +0300</pubDate>
-      <guid>https://benbogin.github.io/authors/ranit-aharonov/</guid>
       <description></description>
     </item>
     

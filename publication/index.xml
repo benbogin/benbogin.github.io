@@ -5,7 +5,7 @@
     <link>https://benbogin.github.io/publication/</link>
       <atom:link href="https://benbogin.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Aug 2021 01:01:01 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Sep 2021 11:37:54 +0300</lastBuildDate>
     <image>
       <url>https://benbogin.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>COVR: A Test-Bed for Visually Grounded Compositional Generalization with Real Images</title>
+      <link>https://benbogin.github.io/publication/covr/</link>
+      <pubDate>Mon, 20 Sep 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/covr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Text-to-SQL in the Wild: A Naturally-Occurring Dataset Based on Stack Exchange Data</title>
       <link>https://benbogin.github.io/publication/sede/</link>
       <pubDate>Fri, 06 Aug 2021 01:01:01 +0100</pubDate>
       <guid>https://benbogin.github.io/publication/sede/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An autonomous debating system</title>
+      <link>https://benbogin.github.io/publication/debater/</link>
+      <pubDate>Mon, 01 Mar 2021 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/debater/</guid>
       <description></description>
     </item>
     
