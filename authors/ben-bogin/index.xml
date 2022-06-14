@@ -55,8 +55,16 @@
     <item>
       <title>Evaluating nlp models via contrast sets</title>
       <link>https://benbogin.github.io/publication/contrast/</link>
-      <pubDate>Wed, 01 Jan 2020 01:01:01 +0100</pubDate>
+      <pubDate>Fri, 01 May 2020 01:01:01 +0100</pubDate>
       <guid>https://benbogin.github.io/publication/contrast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MedICaT: A Dataset of Medical Images, Captions, and Textual References</title>
+      <link>https://benbogin.github.io/publication/medicat/</link>
+      <pubDate>Mon, 13 Jan 2020 11:37:54 +0300</pubDate>
+      <guid>https://benbogin.github.io/publication/medicat/</guid>
       <description></description>
     </item>
     
