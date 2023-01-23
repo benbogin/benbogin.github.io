@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://benbogin.github.io/authors/ben-bogin/</loc>
-    <lastmod>2022-01-16T11:37:54+03:00</lastmod>
-  </url><url>
     <loc>https://benbogin.github.io/publication_types/1/</loc>
-    <lastmod>2022-01-16T11:37:54+03:00</lastmod>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
   </url><url>
     <loc>https://benbogin.github.io/authors/</loc>
-    <lastmod>2022-01-16T11:37:54+03:00</lastmod>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
   </url><url>
     <loc>https://benbogin.github.io/</loc>
-    <lastmod>2022-01-16T11:37:54+03:00</lastmod>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
+  </url><url>
+    <loc>https://benbogin.github.io/publication/diversity/</loc>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
   </url><url>
     <loc>https://benbogin.github.io/authors/jonathan-berant/</loc>
-    <lastmod>2022-01-16T11:37:54+03:00</lastmod>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
   </url><url>
     <loc>https://benbogin.github.io/publication_types/</loc>
-    <lastmod>2022-01-16T11:37:54+03:00</lastmod>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
   </url><url>
     <loc>https://benbogin.github.io/publication/</loc>
+    <lastmod>2022-11-16T11:37:54+03:00</lastmod>
+  </url><url>
+    <loc>https://benbogin.github.io/authors/ben-bogin/</loc>
     <lastmod>2022-01-16T11:37:54+03:00</lastmod>
   </url><url>
     <loc>https://benbogin.github.io/authors/shivanshu-gupta/</loc>
@@ -342,6 +345,8 @@
     <loc>https://benbogin.github.io/authors/amir-barsup/sup/</loc>
   </url><url>
     <loc>https://benbogin.github.io/categories/</loc>
+  </url><url>
+    <loc>https://benbogin.github.io/authors/itay-levysup/sup/</loc>
   </url><url>
     <loc>https://benbogin.github.io/authors/nitish-guptasup/sup/</loc>
   </url><url>
